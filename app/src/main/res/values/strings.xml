@@ -4,4 +4,5 @@
     <string name="title_activity_note_details">NoteDetailsActivity</string>
     <string name="action_edit">Edit</string>
     <string name="notesTiltle">Notes</string>
+    <string name="delete_all">Delete All</string>
 </resources>
